@@ -55,7 +55,7 @@ To run the Web Music Player locally, follow these steps:
    npm start
    ```
 
-7. Open your browser and navigate to [http://localhost:3000](http://localhost:3000) to access the Web Music Player.
+7. Open your browser and navigate to [http://localhost:8080](http://localhost:8080) to access the Web Music Player.
 
 ## Contributing
 
